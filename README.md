@@ -1,6 +1,6 @@
 # exercise2-company-sales-data-for-last-year
 
-it is a line plot with red dashed lines and circle markers indicating the profit a company made last year in sales. the program uses 'panda' to load sales data from the csv line, and then uses matplotlib to make line plots.
+it is a line plot with red dashed lines and circle markers indicating the profit a company made last year in sales. the program uses 'panda' to load sales data from the csv file, and then uses matplotlib to make line plots.
 
 TOOLS USED
 1. IDLE python2.18
